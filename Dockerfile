@@ -12,3 +12,4 @@ COPY NAE/AppDef.json /etc/NAE/AppDef.json
 RUN curl --fail -X POST -d @/etc/NAE/AppDef.json https://api.jarvice.com/jarvice/validate
 
 COPY samples /usr/local/samples
+COPY scripts/sample_notebook.sh /usr/local/scripts/sample_notebook.sh

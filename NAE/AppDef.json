@@ -1,6 +1,6 @@
 {
     "name": "Chainer",
-    "description": "Chainer",
+    "description": "Chainer Deep Dive for IBM OpenPOWER Developer Congress 2017.",
     "author": "Nimbix, Inc.",
     "licensed": true,
     "classifications": [
@@ -22,7 +22,7 @@
     ],
     "commands": {
         "Chainer": {
-            "path": "/usr/local/bin/nimbix_notebook",
+            "path": "/usr/local/scripts/sample_notebook.sh",
             "interactive": true,
             "name": "Chainer",
             "description": "Launch a Jupyter Notebook to use Chainer directly in your browser.",
