@@ -1,7 +1,7 @@
 {
-    "name": "chainer",
-    "description": "chainer application",
-    "author": "opcdc",
+    "name": "Chainer",
+    "description": "Chainer",
+    "author": "Nimbix, Inc.",
     "licensed": true,
     "classifications": [
         "Machine Learning/Deep Learning",
